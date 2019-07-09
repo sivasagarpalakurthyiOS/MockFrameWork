@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		B70F514E2282EA2C0012BCEC /* MockRepo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B70F51442282EA2C0012BCEC /* MockRepo.framework */; };
-		B70F51532282EA2C0012BCEC /* MockRepoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B70F51522282EA2C0012BCEC /* MockRepoTests.swift */; };
 		B70F51552282EA2C0012BCEC /* MockRepo.h in Headers */ = {isa = PBXBuildFile; fileRef = B70F51472282EA2C0012BCEC /* MockRepo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -201,7 +200,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B70F51532282EA2C0012BCEC /* MockRepoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
